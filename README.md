@@ -14,7 +14,7 @@ The **Task Management System** is a Python-based application that helps users ma
 - **Reminders:** View upcoming assignments and tasks to ensure deadlines are met.
 
 ## Technologies Used:
-- **Python 3.x**
+- **Python 3.12.4
 - **Tkinter:** For building the GUI.
 - **SQLite:** As the database to store user data.
 - **Datetime Module:** For handling dates and times effectively.
